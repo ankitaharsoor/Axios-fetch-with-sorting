@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.search-box{
+   
+    width: 53%;
+    margin: 27px 121px;
+    height: 40px;
+}
+
+.btn{
+    height: 40px;
+    width: 100px;
+    background: lightgray;
+    font-size: initial;
+    color: black;
+    margin-right: 18px;
+
+}
+
+.asc{
+   
+    display: table-cell;
+    font-size: smaller;
+    font-style: italic;
+
+}
+
